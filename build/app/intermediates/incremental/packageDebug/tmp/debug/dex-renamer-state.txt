@@ -1,0 +1,4 @@
+#Sat Jun 10 13:38:35 BRT 2023
+base.0=/home/marcosnocetti/StudioProjects/sec_hab/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

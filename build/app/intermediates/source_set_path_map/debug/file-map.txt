@@ -1,0 +1,12 @@
+com.sechab.sec_hab.app-jetified-window-1.0.0-beta04-0 /home/marcosnocetti/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.sechab.sec_hab.app-jetified-annotation-experimental-1.1.0-1 /home/marcosnocetti/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.sechab.sec_hab.app-core-1.6.0-2 /home/marcosnocetti/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.sechab.sec_hab.app-jetified-window-java-1.0.0-beta04-3 /home/marcosnocetti/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.sechab.sec_hab.app-debug-4 /home/marcosnocetti/StudioProjects/sec_hab/android/app/src/debug/res
+com.sechab.sec_hab.app-main-5 /home/marcosnocetti/StudioProjects/sec_hab/android/app/src/main/res
+com.sechab.sec_hab.app-pngs-6 /home/marcosnocetti/StudioProjects/sec_hab/build/app/generated/res/pngs/debug
+com.sechab.sec_hab.app-resValues-7 /home/marcosnocetti/StudioProjects/sec_hab/build/app/generated/res/resValues/debug
+com.sechab.sec_hab.app-rs-8 /home/marcosnocetti/StudioProjects/sec_hab/build/app/generated/res/rs/debug
+com.sechab.sec_hab.app-mergeDebugResources-9 /home/marcosnocetti/StudioProjects/sec_hab/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.sechab.sec_hab.app-mergeDebugResources-10 /home/marcosnocetti/StudioProjects/sec_hab/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.sechab.sec_hab.app-merged_res-11 /home/marcosnocetti/StudioProjects/sec_hab/build/app/intermediates/merged_res/debug
